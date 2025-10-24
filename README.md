@@ -1,25 +1,15 @@
-# 第4週 課題テンプレート
+# 第4週 講義に紹介したプログラム
 
-## 提出ルール（必ず守ってください）
-🚫 **このリポジトリは必ず「Private」で作成してください。**
-他の学生に見える状態（Public）にすると不正行為とみなされることがあります。
+ 練習問題1　age-price.py
+if文の中でfalsyはこのように活用　if_falsy.py
+入力の検証と境界値テスト　Validation-age.py
+input() は“文字列”になる　Validation-input.py
+数字かどうかを調べる（形式チェック）Validation-figure.py
+小数やマイナスも許したいとき　Validation-decimal.py
+例外処理 try / except　Validation-try-except.py
+境界値テスト例　Boundary_value_test.py
 
-👩‍🏫 提出方法：
-1. このテンプレートから「Use this template」で自分のリポジトリを作成  
-2. リポジトリ名：`week4_学籍番号_名前（フルネーム）
-   例：week4_20251234_山形太郎`  
-3. 教員 sichiura-yamagata-uを「collaborator」に追加  
-4. コードを編集・コミット・プッシュして提出  
 
-🧩 注意：
-- Publicリポジトリは禁止です  
-- 他人のコードをコピーしない  
-- READMEを必ず残して提出  
 
----
 
-## 提出期限
-2025年10月31日 16:20
 
-## 質問方法
-Issueタブを開き、タイトルに「Q: ○○について」と書いて投稿してください。
